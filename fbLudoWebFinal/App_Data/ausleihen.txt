@@ -1,0 +1,6 @@
+<<<<<<< .mine
+1:luca.grueninger@gmx.ch:1:Spiel Numero Uno
+2:luca.grueninger@gmx.ch:3:Spiel Numero Tres
+3:luca.grueninger@gmx.ch:2:Spiel Numero Dos
+=======
+
